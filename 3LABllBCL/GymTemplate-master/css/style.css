@@ -1,0 +1,26 @@
+.Conte{
+background : url("../image/1.jpg")no-repeat fixed;
+	-wekit-background size: contain;
+	-o- background: 
+
+
+ }
+ p{
+ 	color: #FF0000; 
+ }
+ div{
+ 	color:#ffffff;
+ }
+ .h{
+ 	color:#FFf;
+ 	list-style-type:none;
+ 	padding: 4px;
+ 	margin: 0;
+ 	
+ }
+ .h:hover {
+    background color :#ff7f00;
+ }
+
+
+      
